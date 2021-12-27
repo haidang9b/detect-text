@@ -1,4 +1,4 @@
-# detect text with Pytesseract
+# Detect text with Pytesseract
 
 ## Method 1
 
